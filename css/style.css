@@ -74,6 +74,10 @@
     margin: auto;
 }
 
+.input-group{
+    direction: ltr;
+}
+
 /* <-- Bootstrap Overrides END --> */
 
 
@@ -311,7 +315,54 @@ footer{
     width: 100%;
 }
 
+footer .services img{
+height: 60px;
+}
 
+
+footer .footer-link{
+    display: block;
+    padding: 8px 0;
+    font-size: .8rem;
+    transition: all .2s ease;
+}
+
+footer .footer-link:hover{
+    color: #ef5166;
+}
+
+footer .footer-socials li{
+    padding: 10px;
+}
+
+footer .footer-socials li a{
+    font-size: 28px;
+    color: #616161;
+    transition: all .2s ease;
+}
+
+
+footer .footer-socials li a:hover{
+    color: #ef5166;
+}
+
+footer .download-app{
+    width: 150px;
+}
+
+footer .footer-ultimate{
+    background-color: #d7dee0;
+    padding: 20px 0px;
+}
+
+footer .footer-item{
+    text-align: center;
+}
+
+footer .footer-item img{
+    text-align: center;
+    height: 31px;
+}
 
 /* <-- Footer END --> */
 
