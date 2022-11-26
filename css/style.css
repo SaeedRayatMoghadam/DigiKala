@@ -36,6 +36,10 @@
     width: 65%;
 }
 
+.w-90 {
+    width: 80%;
+}
+
 .h-500{
     height: 500px !important;
 }
