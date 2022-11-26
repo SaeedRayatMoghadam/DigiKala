@@ -266,4 +266,23 @@ header {
 
 /* <-- Baners END --> */
 
-/* #ef396e */
+
+
+
+
+/* <-- Suggested Products START --> */
+
+
+.suggested-products{
+    background-color: #ef396e;
+}
+
+.suggested-products .suggestion-bg{
+    background:url('../images/special_bg.svg') no-repeat;
+    padding: 40px 0;
+    background-position: 90%;
+    background-size: auto 100%;
+}
+
+
+/* <-- Suggested Products END --> */
