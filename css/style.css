@@ -64,6 +64,12 @@
     border-radius: 50%;
 }
 
+.card-img-top{
+    width: 180px;
+    text-align: center;
+    margin: auto;
+}
+
 /* <-- Bootstrap Overrides END --> */
 
 
@@ -277,7 +283,11 @@ header {
     background-color: #ef396e;
 }
 
-.suggested-products .suggestion-bg{
+.suggested-products-2{
+    background-color: #6bb927;
+}
+
+.suggested-products-2 .suggestion-bg , .suggested-products .suggestion-bg{
     background:url('../images/special_bg.svg') no-repeat;
     padding: 40px 0;
     background-position: 90%;
