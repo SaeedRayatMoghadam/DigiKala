@@ -101,6 +101,10 @@ body {
     direction: rtl;
 }
 
+input{
+    direction: rtl;
+}
+
 /* <-- Header - Navbar START --> */
 
 header {
@@ -121,7 +125,7 @@ header {
 
 .search-icon {
     top: 10px;
-    right: 31px;
+    right: 25px;
     z-index: 1;
 }
 
